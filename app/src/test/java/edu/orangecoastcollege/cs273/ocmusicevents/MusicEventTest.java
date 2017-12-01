@@ -36,54 +36,64 @@ public class MusicEventTest {
     */
 
     @Test
-    public void getDate() throws Exception {
+    public void getSetDate() throws Exception {
 
     }
 
+    /*
     @Test
     public void setDate() throws Exception {
 
     }
+    */
 
     @Test
-    public void getDay() throws Exception {
+    public void getSetDay() throws Exception {
 
     }
 
+    /*
     @Test
     public void setDay() throws Exception {
 
     }
+    */
 
     @Test
-    public void getTime() throws Exception {
+    public void getSetTime() throws Exception {
 
     }
 
+    /*
     @Test
     public void setTime() throws Exception {
 
     }
+    */
 
     @Test
-    public void getLocation() throws Exception {
+    public void getSetLocation() throws Exception {
 
     }
 
+    /*
     @Test
     public void setLocation() throws Exception {
 
     }
+    */
 
     @Test
-    public void getAddress1() throws Exception {
+    public void getSetAddress1() throws Exception {
 
     }
 
+    /*
     @Test
     public void setAddress1() throws Exception {
 
     }
+    */
 
     @Test
     public void getAddress2() throws Exception {
